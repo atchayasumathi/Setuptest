@@ -1,0 +1,5 @@
+here are the steps to install
+
+git
+
+ goto browswer
